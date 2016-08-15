@@ -1,0 +1,195 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.navbar{
+background-color: transparent;
+}
+.navbar-default .navbar-brand{
+  color: white;
+}
+.navbar-default .navbar-nav > li > a{
+	color: white;
+}
+/*
+.navbar-default .navbar-nav > li > a:hover{
+	color: white;
+}
+*/
+.blue{
+	color: #528BCF;
+}
+
+/*FONDO*/
+.fondo{
+	background-image: url(../image/large.jpg);
+	background-size: cover;
+	text-align: center;
+}
+.fondo h1{
+	padding: 30% 10%;
+	background-color: rgba(0,0,0,0.3);
+	color: white;
+	font-size: 4em;
+}
+.fondo h2, p{
+	color: white;
+}
+
+/*button*/
+.bt{
+	background-color: rgba(61,122,209,0.8);
+	padding: 2% 0;
+}
+.btn-lg{
+  border-radius: 2px;
+}
+.btn-primary {
+  background-color: transparent;
+  border-color: white;
+}
+.btn-primary:hover {
+  background-color: #58A5FF;
+}
+
+/*SERVICIOS*/
+.iconos{
+	text-align: center;
+	align-content: center;
+}
+.iconos h2{
+	margin: 6% 0;
+	font-size: 2em;
+	color: #58A5FF;
+}
+.sombra{
+	border-radius: 50%;
+	border-radius: 0px solid none;
+	box-shadow: -4px 4px 24px -10px rgba(97,97,97,1);;
+	padding: 14%;
+	width: 110px;
+	height: 110px;
+	margin: auto;
+}
+.icon{
+	font-size: 3em;
+	color: #58A5FF;
+}
+.iconos h3{
+	color: gray;
+	font-size: 1.5em;
+	margin:15% 0;
+	padding: 0% 12%;
+	text-align: center;
+}
+.iconos p{
+	font-size: 1em;
+	margin:2% 0;
+	color: black;
+}
+.ic{
+	padding: 0% 6%;
+}
+
+/*SEPARADOR*/
+.separador{
+	padding:10% 0;
+	text-align: center;
+}
+
+/*EJEM*/
+.ejem h2{
+	color: #58A5FF;
+	display: inline-block;
+}
+.imglogo{
+	width: 50%;
+}
+.ejem p{
+	margin: 10px 0px;
+	color: black;
+}
+.flecha{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	padding: 4% 0;
+}
+
+/*LOQUIERO*/
+.loquiero{
+	margin: 6% 0;
+}
+.loquiero h2{
+	margin-top: 0%;
+	margin-bottom: 4%;
+}
+.loquiero p{
+	color: black;
+	margin-bottom: 4%;
+}
+.lo{
+	background-image: url(../image/sec-2.jpg);
+ 	background-size: cover;
+ 	height: 380px;
+ 	width: 50%;
+ 	background-repeat: no-repeat;
+}
+.transpa{
+	background-color: rgba(0,0,0,0.8);
+}
+
+/*USAR TESTING*/
+.usar p{
+	color: black;
+	margin-bottom: 4%;
+}
+.us{
+	background-image: url(../image/banner.jpg);
+ 	background-size: cover;
+ 	height: 380px;
+ 	width: 50%;
+ 	background-repeat: no-repeat;
+}
+
+/*BTB*/
+.btb h2, p{
+	color: white;
+}
+.btb{
+	background-color: rgba(61,122,209,0.8);
+	padding: 1% 0;
+	text-align: center;
+}
+.btn{
+	margin: 4% 0;
+}
+.btn-lg{
+  border-radius: 2px;
+}
+.btn-primary {
+  background-color: transparent;
+  border-color: white;
+}
+.btn-primary:hover {
+  background-color: #58A5FF;
+}
+
+/*FOOTER*/
+.pie{
+	background-color: #2A3541;
+	padding: 4%;
+}
+.right{
+	text-align:right;
+}
+.redes{
+	color: #58A5FF;
+	font-size: 1.8em;
+	padding-bottom: 2%;
+	padding-left: 4%;
+}
+.pie p{
+	margin: 10px 0px;
+}
